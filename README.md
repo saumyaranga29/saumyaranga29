@@ -1,8 +1,35 @@
-<p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmR2MXhiNmRueDRxNHhsY2htNzJkcDdzcXlsd3Rmd3ZwY3l5NGNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="200">
+<!-- <p align="right">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmR2MXhiNmRueDRxNHhsY2htNzJkcDdzcXlsd3Rmd3ZwY3l5NGNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="500">
 </p>
-# 💫 About Me:
+
+
+# Hi 👋,I'm Saumya Ranga
+
+About Me:
 🌱 I’m currently learning Advanced Machine Learning, LLMs, RAG, and FastAPI.<br><br>👯 I’m looking to collaborate on AI/ML, Generative AI, and Full-Stack projects.<br><br>💬 Ask me about Python, Java, DSA, Machine Learning, FastAPI, Flask, and LLMs.<br><br>⚡ Fun fact: I love transforming real-world problems into intelligent AI solutions.
+ -->
+<table>
+  <tr>
+    <td width="60%">
+
+# Hi 👋, I'm Saumya Ranga
+
+### About Me:
+
+🌱 I’m currently learning **Advanced Machine Learning, LLMs, RAG, and FastAPI.**
+
+👯 I’m looking to collaborate on **AI/ML, Generative AI, and Full-Stack projects.**
+
+💬 Ask me about **Python, Java, DSA, Machine Learning, FastAPI, Flask, and LLMs.**
+
+⚡ **Fun fact:** I love transforming real-world problems into intelligent AI solutions.
+
+  </td>
+  <td width="40%">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmR2MXhiNmRueDRxNHhsY2htNzJkcDdzcXlsd3Rmd3ZwY3l5NGNrbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1vlBgKjXEz1jTtsuiH/giphy.gif" width="400"/>
+  </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
